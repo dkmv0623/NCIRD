@@ -1,5 +1,5 @@
 # UIRD
-Large-scale Benchmark for Unooled Infrared Image Deblurring
+Large-scale Benchmark for Uncooled Infrared Image Deblurring
 
 
 
